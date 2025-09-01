@@ -1,14 +1,5 @@
 # **Deep Learning Assignment 2: Automatic Image Captioning** (Spring 2025)
 
-## Team Members ( TEAM ID 13)
-
-| Name                     | Roll Number | Email                          |
-|--------------------------|-------------|--------------------------------|
-| Sai Deepak Reddy Mara    | 22CS10066   | saideepakmara@gmail.com        | 
-| Byreddi Sri Chaitanya    | 22CS10018   | rockstarman957@gmail.com       |
-| Angalakuduru Tejasree Sai| 22CS10009   | tejasree.angalakuduru@gmil.com |   
-
-
 ## Overview
 
 Key tasks include:
